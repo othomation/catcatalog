@@ -1,3 +1,3 @@
 **/node_modules
 **/.env
-backend/data/catdatabase.sqlite
+backend/data/catsDatabase.sqlite
